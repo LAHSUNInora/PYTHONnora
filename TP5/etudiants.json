@@ -1,0 +1,19 @@
+{
+    "etudiants": [
+        {
+            "Nom": "Alice",
+            "Age": 30,
+            "Ville": "Paris"
+        },
+        {
+            "Nom": "Bob",
+            "Age": 25,
+            "Ville": "Lyon"
+        },
+        {
+            "Nom": "NORA",
+            "Age": 20,
+            "Ville": "Agadir"
+        }
+    ]
+}

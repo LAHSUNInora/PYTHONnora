@@ -1,0 +1,3 @@
+EBonjour tout le monde.
+Bienvenue dans cet exercice.
+Python est amusant 
